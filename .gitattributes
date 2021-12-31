@@ -1,11 +1,5 @@
-Renders/TestCleaner[[:space:]]Render[[:space:]]05.tif filter=lfs diff=lfs merge=lfs -text
-Renders/TestCleaner[[:space:]]Render[[:space:]]01.tif filter=lfs diff=lfs merge=lfs -text
-Renders/TestCleaner[[:space:]]Render[[:space:]]02.tif filter=lfs diff=lfs merge=lfs -text
-Renders/TestCleaner[[:space:]]Render[[:space:]]03.tif filter=lfs diff=lfs merge=lfs -text
-Renders/TestCleaner[[:space:]]Render[[:space:]]04.tif filter=lfs diff=lfs merge=lfs -text
 Renders filter=lfs diff=lfs merge=lfs -text
-Textuers filter=lfs diff=lfs merge=lfs -text
 Textures filter=lfs diff=lfs merge=lfs -text
 assets filter=lfs diff=lfs merge=lfs -text
-TestCleaner[[:space:]]Icon.blend filter=lfs diff=lfs merge=lfs -text
 Reference filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
